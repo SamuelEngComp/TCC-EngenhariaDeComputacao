@@ -1,0 +1,100 @@
+\chapter{Conclusão}
+\label{CAP6}
+
+\begin{comment}
+Com o avanço das tecnologias muitos dados estão sendo gerados, grandes e pequenas empresas necessitam armazenar e processar essa imensidão de dados, porém, elas não estão dando as devidas importância para a segurança dos dados e das informações, podendo causar danos irreparáveis aos usuários.
+
+Diversas empresas utilizam o ambiente hadoop para armazenar e processar grandes quantidades de dados, desta forma, este trabalho propos um ambiente simulado do hadoop para realizar testes de segurança e previnir danos com as boas praticas de segurança.
+
+O ambiente criado proporciona ao desenvolvedor uma visão na qual ele ira poder realizar testes automatizados. Ele será capaz de testar a segurança do ambiente e prever falhas futuras. Este trabalho possui suas limitações quanto ao ambiente, tendo em vista que a máquina principal não possui um hardware excelente para o desenvolvimento de um cluster maior, mas as limitações foram controladas devido a simplificação na memoria disponivel ao cluster.
+\end{comment}
+
+
+%NOVA CONCLUSÃO
+Com o avanço das tecnologias muitos dados estão sendo gerados, grandes e pequenas empresas necessitam armazenar e processar essa imensidão de dados, porém, elas não estão dando as devidas importância para a segurança dos dados e das informações, podendo causar danos irreparáveis aos usuários. Diversas empresas utilizam o ambiente Hadoop para armazenar e processar grandes quantidades de dados, desta forma, este trabalho propôs um ambiente simulado do Hadoop para realizar testes de segurança e previnir danos com as boas práticas de segurança, tendo em vista que o ambiente Apache Hadoop não vem com uma segurança mínima.
+
+Como foi demonstrado durante este trabalho, o Hadoop por si só não trás nenhuma segurança, é necessário utilizar \textit{softwares} externos para blindar o ambiente Apache Hadoop. No primeiro cenário foi visto que, apenas uma máquina pôde causar lentidão no processo de um nó do cluster com um ataque DoS, no segundo cenário foi possível realizar um ataque de força bruta e conseguir descobrir a senha do ssh, sendo que o ssh é fundamental para o cluster, pois é através dele que ocorre a comunicação entre os nós. No terceiro cenário, foi possível realizar um MITM, conseguindo fazer com que um nó do cluster parasse de funcionar, prejudicando assim o cluster.
+
+Como trabalhos futuros, pretende-se melhorar o ambiente nas questões de segurança de rede, com a implementação de uma segurança que proteja o ambiente contra ataques e realizar a troca de máquinas virtuais por \textit{raspberry pi}.
+
+%\addcontentsline{toc}{section}{Referências}
+\begin{thebibliography}{99}
+
+\bibitem{livtex} ALOI BLOG. Instalar hadoop em ubuntu. Disponível em: \url{<http://blog.aloi.com.br/?p=284>}. Acesso em: 22 fev. 2018.
+
+\bibitem{livtex} APACHE HADOOP. Welcome to apache hadoop. Disponível em: \url{<http://hadoop.apache.org/>}. Acesso em: 25 jan. 2018.
+
+\bibitem{livtex} CANALTECH. Números curiosos do facebook: rede social gera mais de 500tb de dados por dia. Disponível em: \url{<https://canaltech.com.br/redes-sociais/facebook-gera-mais-500tb-de-dados-diariamente/>}. Acesso em: 04 jan. 2018.
+
+\bibitem{livtex} CANALTECH. O que é dos e ddos?. Disponível em: \url{<https://canaltech.com.br/produtos/o-que-e-dos-e-ddos/>}. Acesso em: 15 fev. 2018.
+
+\bibitem{livtex} DIFERENCIALTI. Segurança de dados: tudo que você precisa saber. Disponível em: \url{<https://blog.diferencialti.com.br/seguranca\-de-dados/>}. Acesso em: 05 jan. 2018.
+
+\bibitem{livtex} DROIDHUB. Hadoop kerberos security. Disponível em: \url{<http://ngvtech.in/droidhub/hadoop\-kerberos-security/>}. Acesso em: 14 fev. 2018.
+
+\bibitem{livtex} EXAME. Conteúdo digital dobra a cada dois anos no mundo. Disponível em: \url{<https://exame.abril.com.br/tecnologia/conteudo\-digital-dobra-a-cada-dois-anos-no-mundo/>}. Acesso em: 04 jan. 2018.
+
+\bibitem{livtex} EXAME. Uma entrevista didática sobre big data. Disponível em: \url{<https://exame.abril.com.br/tecnologia/uma\-entrevista-didatica-sobre-big-data/>}. Acesso em: 05 jan. 2018.
+
+\bibitem{livtex} GTA UFRJ. Kerberos. Disponível em: \url{<https://www.gta.ufrj.br/grad/02\_2/kerberos/>}. Acesso em: 13 fev. 2018.
+
+\bibitem{livtex} HORTONWORKS. Apache hadoop yarn background and an overview. Disponível em: \url{<https://br.hortonworks.com/blog/apache\-hadoop-yarn-background-and-an-overview/>}. Acesso em: 09 fev. 2018.
+
+\bibitem{livtex} HORTONWORKS. Apache hadoop yarn. Disponível em: \url{<https://br.hortonworks.com/apache/yarn/>}. Acesso em: 10 fev. 2018.
+
+\bibitem{livtex} IBM. The four v's of big data. Disponível em: \url{<http://www.ibmbigdatahub.com/infographic/four\-vs-big-data>}. Acesso em: 08 jan. 2018.
+
+
+\bibitem{livtex} IBM. Uma introdução ao hadoop distributed file system. Disponível em: \url{<https://www.ibm.com/developerworks/br/library/wa\-introhdfs/index.html>}. Acesso em: 29 jan. 2018.
+
+\bibitem{livtex} INFOWESTER. Ataques dos (denial of service) e ddos (distributed dos). Disponível em: \url{<https://www.infowester.com/ddos.php>}. Acesso em: 16 fev. 2018.
+
+\bibitem{livtex} INFOWESTER. Cluster: conceito e características. Disponível em: \url{<https://www.infowester.com/cluster.php>}. Acesso em: 17 jan. 2018.
+
+\bibitem{livtex} JOSÉ GUILHERME LOPES. Hdfs e mapreduce: entenda a arquitetura do hadoop. Disponível em: \url{<http://joseguilhermelopes.com.br/hadoop\-entenda-arquitetura-hdfs/>}. Acesso em: 08 fev. 2018.
+
+\bibitem{livtex} KALI LINUX. Our most advanced penetration testing distribution, ever.. Disponível em: \url{<https://www.kali.org/>}. Acesso em: 21 fev. 2018.
+
+\bibitem{livtex} KAPLAN, Robert S.; NORTON, David P.. A estratégia em ação: Balanced scorecard. 4 ed.  Rio de Janeiro: Campus, 1997. 344 p.
+
+\bibitem{livtex} LUME UFRJ. Simulação e estudo da plataforma hadoop mapreduce em ambientes heterogêneos. Disponível em: \url{<https://www.lume.ufrgs.br/bitstream/handle/10183/28331/000767852.pdf?sequence=1>}. Acesso em: 04 jan. 2018.
+
+\bibitem{livtex} MAYER\-SCHÖNBERGER, Viktor; CUKIER, Kenneth. Big data: Como extrair volume, variedade, velocidade e valor da avalanche de informação cotidiana. 1 ed.  Brasil: Elsevier Brasil, 2014. 176 p.
+
+\bibitem{livtex} MIDIAWEB. O que acontece na internet em um minuto?. Disponível em: \url{<http://www.midiaweb.com.br/o\-que-acontece-na-internet-em-um-minuto/>}. Acesso em: 04 jan. 2018.
+
+\bibitem{livtex} MSBI. Big data, hadoop \- lesson 5 : namenode, datanode, job tracker, task tracker. Disponível em: \url{<https://lakshmana\-msbi.blogspot.com/2016/01/big-data-hadoop-lesson-5-namenode.html>}. Acesso em: 02 fev. 2018.
+
+\bibitem{livtex} NINJA DO LINUX. Entenda o que é pentest (teste de intrusão), para que serve e como é feito. Disponível em: \url{<http://ninjadolinux.com.br/o\-que-e-pentest/>}. Acesso em: 19 fev. 2018.
+
+\bibitem{livtex} NMAP. nmap security scanner. Disponível em: \url{<https://nmap.org/>}. Acesso em: 21 fev. 2018.
+
+\bibitem{livtex} OSTEC. Iso 27002: boas práticas para gestão de segurança da informação. Disponível em: \url{<https://ostec.blog/padronizacao\-seguranca/iso-27002-boas-praticas-gsi>}. Acesso em: 05 jan. 2018.
+
+\bibitem{livtex} PPLWARE. Redes sabe para que serve o protocolo arp?. Disponível em: \url{<https://pplware.sapo.pt/microsoft/windows/redes\-sabe-para-que-serve-o-protocolo-arp/>}. Acesso em: 18 fev. 2018.
+
+\bibitem{livtex} PROFISSIONAISTI. Conhecendo o protocolo de rede kerberos. Disponível em: \url{<https://www.profissionaisti.com.br/2011/11/conhecendo\-o-protocolo-de-rede-kerberos/>}. Acesso em: 12 fev. 2018.
+
+\bibitem{livtex} PROFISSÃO HACKER. Pentest. os testes de intrusão. Disponível em: \url{<http://profissaohacker.com/pentest/>}. Acesso em: 20 fev. 2018.
+
+\bibitem{livtex} REPOSITORIO UNB. Modelo para estimar performance de um cluster hadoop. Disponível em: \url{<http://repositorio.unb.br/bitstream/10482/17180/1/2014\_josebeneditosouzabrito.pdf>}. Acesso em: 31 jan. 2018.
+
+\bibitem{livtex} TECHMUNDO. Cerca de 100 bilhões de buscas são realizadas no google mensalmente. Disponível em: \url{<https://www.tecmundo.com.br/google/53852-cerca-de-100-bilhoes-de-buscas-sao-realizadas-no-google-mensalmente.htm>}. Acesso em: 04 jan. 2018.
+
+\bibitem{livtex} TOTALCROSS. Banco de dados. relacional vs não relacional. Disponível em: \url{<http://www.totalcross.com/blog/banco\-de-dados-relacional-nao-relacional/>}. Acesso em: 17 jan. 2018.
+
+\bibitem{livtex} WEBCHEATS. Ataque man\-in-the middle. Disponível em: \url{<http://www.webcheats.com.br/threads/6\-ataque-man-in-the-middle.2552630/>}. Acesso em: 17 fev. 2018.
+
+\bibitem{livtex} WHITE, TOM. Hadoop the definitive guide: storage and analysis at internet scale. 4 ed.  USA: O reilly. 2015. 727 p.
+
+\bibitem{livtex} DARKMOREOPS. Mitm man in the middle attack using kali linux. Disponivel em: \url{<https://www.darkmoreops.com/2015/11/16/mitm\-man-middle-attack-using-kali-linux/>}. Acesso em: 26 fev. 2018.
+
+\bibitem{livtex} IMASTERS. Big data e hadoop – o que é tudo isso?. Disponível em: \url{<https://imasters.com.br/banco-de-dados/big-data-e-hadoop-o-que-e-tudo-isso>}. Acesso em: 19 fev. 2018.
+
+\bibitem{livtex} TIINSIDE. Segurança de big data: como é feita?. Disponível em: \url{<http://tiinside.com.br/tiinside/seguranca/artigos-seguranca/25/07/2017/seguranca-de-big-data-como-e-feita/>}. Acesso em: 18 jun. 2018.
+
+\bibitem{livtex} CIO. Segurança em big data é possível. Disponível em: \url{<http://cio.com.br/tecnologia/2016/04/01/seguranca-em-big-data-e-possivel/>}. Acesso em: 18 jun. 2018.
+
+\bibitem{livtex} G1. Entenda o caso de edward snowden, que revelou espionagem dos eua. Disponível em: \url{<http://g1.globo.com/mundo/noticia/2013/07/entenda-o-caso-de-edward-snowden-que-revelou-espionagem-dos-eua.html>}. Acesso em: 04 jun. 2018.
+
+\end{thebibliography}

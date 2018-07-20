@@ -1,0 +1,83 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: MODELO_MONOGRAFIA.aux
+A level-1 auxiliary file: capa.aux
+A level-1 auxiliary file: folharosto.aux
+A level-1 auxiliary file: folhadeaprovacao.aux
+A level-1 auxiliary file: dedicatoria.aux
+A level-1 auxiliary file: agradecimentos.aux
+A level-1 auxiliary file: epigrafe.aux
+A level-1 auxiliary file: resumo.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: introducao.aux
+A level-1 auxiliary file: cap2.aux
+A level-1 auxiliary file: cap3.aux
+A level-1 auxiliary file: cap4.aux
+A level-1 auxiliary file: cap5.aux
+A level-1 auxiliary file: cap6.aux
+The style file: siam.bst
+A level-1 auxiliary file: appendices.aux
+Database file #1: abnt-options.bib
+Warning--entry type for "abnt-and-type=&" isn't style-file defined
+--line 5 of file abnt-options.bib
+Warning--entry type for "abnt-emphasize=bf" isn't style-file defined
+--line 29 of file abnt-options.bib
+Warning--entry type for "abnt-etal-list=0" isn't style-file defined
+--line 53 of file abnt-options.bib
+Warning--entry type for "abnt-etal-text=it" isn't style-file defined
+--line 80 of file abnt-options.bib
+Warning--entry type for "abnt-full-initials=yes" isn't style-file defined
+--line 92 of file abnt-options.bib
+Warning--entry type for "abnt-nbr10520=2002" isn't style-file defined
+--line 123 of file abnt-options.bib
+Database file #2: ref.bib
+Warning--entry type for "miguelcisterna2015:02" isn't style-file defined
+--line 31 of file ref.bib
+Warning--all relevant fields are empty in abnt-nbr10520=2002
+Warning--all relevant fields are empty in abnt-etal-list=0
+Warning--all relevant fields are empty in abnt-etal-text=it
+Warning--all relevant fields are empty in abnt-and-type=&
+Warning--all relevant fields are empty in abnt-emphasize=bf
+Warning--all relevant fields are empty in abnt-full-initials=yes
+You've used 8 entries,
+            2030 wiz_defined-function locations,
+            532 strings with 4302 characters,
+and the built_in function-call counts, 1318 in all, are:
+= -- 85
+> -- 36
+< -- 0
++ -- 18
+- -- 10
+* -- 74
+:= -- 166
+add.period$ -- 8
+call.type$ -- 8
+change.case$ -- 28
+chr.to.int$ -- 0
+cite$ -- 14
+duplicate$ -- 63
+empty$ -- 172
+format.name$ -- 10
+if$ -- 288
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 2
+newline$ -- 27
+num.names$ -- 4
+pop$ -- 60
+preamble$ -- 1
+purify$ -- 27
+quote$ -- 0
+skip$ -- 74
+stack$ -- 0
+substring$ -- 40
+swap$ -- 4
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 30
+warning$ -- 6
+while$ -- 4
+width$ -- 9
+write$ -- 42
+(There were 13 warnings)

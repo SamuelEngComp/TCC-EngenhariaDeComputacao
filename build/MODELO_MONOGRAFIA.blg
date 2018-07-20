@@ -1,0 +1,82 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: build/MODELO_MONOGRAFIA.aux
+A level-1 auxiliary file: capa.aux
+A level-1 auxiliary file: folharosto.aux
+A level-1 auxiliary file: folhadeaprovacao.aux
+A level-1 auxiliary file: dedicatoria.aux
+A level-1 auxiliary file: agradecimentos.aux
+A level-1 auxiliary file: epigrafe.aux
+A level-1 auxiliary file: resumo.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: introducao.aux
+A level-1 auxiliary file: cap2.aux
+A level-1 auxiliary file: cap3.aux
+A level-1 auxiliary file: cap4.aux
+A level-1 auxiliary file: cap5.aux
+A level-1 auxiliary file: cap6.aux
+The style file: plain.bst
+A level-1 auxiliary file: appendices.aux
+Database file #1: abnt-options.bib
+Warning--entry type for "abnt-and-type=&" isn't style-file defined
+--line 5 of file abnt-options.bib
+Warning--entry type for "abnt-emphasize=bf" isn't style-file defined
+--line 29 of file abnt-options.bib
+Warning--entry type for "abnt-etal-list=0" isn't style-file defined
+--line 53 of file abnt-options.bib
+Warning--entry type for "abnt-etal-text=it" isn't style-file defined
+--line 80 of file abnt-options.bib
+Warning--entry type for "abnt-full-initials=yes" isn't style-file defined
+--line 92 of file abnt-options.bib
+Warning--entry type for "abnt-nbr10520=2002" isn't style-file defined
+--line 123 of file abnt-options.bib
+Database file #2: ref.bib.bib
+Warning--I didn't find a database entry for "miguelcisterna2015"
+Warning--all relevant fields are empty in abnt-nbr10520=2002
+Warning--all relevant fields are empty in abnt-etal-list=0
+Warning--all relevant fields are empty in abnt-etal-text=it
+Warning--all relevant fields are empty in abnt-and-type=&
+Warning--all relevant fields are empty in abnt-emphasize=bf
+Warning--all relevant fields are empty in abnt-full-initials=yes
+You've used 7 entries,
+            2118 wiz_defined-function locations,
+            529 strings with 4519 characters,
+and the built_in function-call counts, 1174 in all, are:
+= -- 75
+> -- 29
+< -- 1
++ -- 15
+- -- 8
+* -- 58
+:= -- 132
+add.period$ -- 9
+call.type$ -- 7
+change.case$ -- 24
+chr.to.int$ -- 0
+cite$ -- 13
+duplicate$ -- 54
+empty$ -- 161
+format.name$ -- 8
+if$ -- 264
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 2
+newline$ -- 26
+num.names$ -- 2
+pop$ -- 52
+preamble$ -- 1
+purify$ -- 24
+quote$ -- 0
+skip$ -- 79
+stack$ -- 0
+substring$ -- 35
+swap$ -- 8
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 26
+warning$ -- 6
+while$ -- 2
+width$ -- 8
+write$ -- 37
+(There were 13 warnings)

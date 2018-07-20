@@ -1,0 +1,31 @@
+\babel@toc {brazilian}{}
+\contentsline {figure}{\numberline {1}{\ignorespaces Compara\IeC {\c c}\IeC {\~a}o entre os anos de 2016 e 2017 do que acontece na internet a cada 60 segundos\relax }}{14}{figure.caption.7}
+\contentsline {figure}{\numberline {2}{\ignorespaces Infogr\IeC {\'a}fico - Vis\IeC {\~a}o geral do ambiente \relax }}{18}{figure.caption.8}
+\contentsline {figure}{\numberline {3}{\ignorespaces Infogr\IeC {\'a}fico - The Four V's of Big Data\relax }}{21}{figure.caption.9}
+\contentsline {figure}{\numberline {4}{\ignorespaces Infogr\IeC {\'a}fico - Vis\IeC {\~a}o geral HDFS \relax }}{26}{figure.caption.10}
+\contentsline {figure}{\numberline {5}{\ignorespaces Infogr\IeC {\'a}fico - Vis\IeC {\~a}o geral do funcionamento do MapReduce \relax }}{27}{figure.caption.11}
+\contentsline {figure}{\numberline {6}{\ignorespaces Infogr\IeC {\'a}fico - Vis\IeC {\~a}o geral MapReduce \relax }}{28}{figure.caption.12}
+\contentsline {figure}{\numberline {7}{\ignorespaces Infogr\IeC {\'a}fico - Vis\IeC {\~a}o geral YARN \relax }}{30}{figure.caption.13}
+\contentsline {figure}{\numberline {8}{\ignorespaces Vis\IeC {\~a}o do funcionamento do kerberos \relax }}{32}{figure.caption.14}
+\contentsline {figure}{\numberline {9}{\ignorespaces Vis\IeC {\~a}o do funcionamento de um DDoS\relax }}{33}{figure.caption.15}
+\contentsline {figure}{\numberline {10}{\ignorespaces Vis\IeC {\~a}o geral de um MITM \relax }}{34}{figure.caption.16}
+\contentsline {figure}{\numberline {11}{\ignorespaces Desabilitando o Ipv6\relax }}{40}{figure.caption.17}
+\contentsline {figure}{\numberline {12}{\ignorespaces Adicionando vari\IeC {\'a}veis do Apache Hadoop ao path\relax }}{40}{figure.caption.18}
+\contentsline {figure}{\numberline {13}{\ignorespaces Comando jps Slave\relax }}{42}{figure.caption.19}
+\contentsline {figure}{\numberline {14}{\ignorespaces Comando jps Master\relax }}{42}{figure.caption.20}
+\contentsline {figure}{\numberline {15}{\ignorespaces Interface do Yarn\relax }}{43}{figure.caption.21}
+\contentsline {figure}{\numberline {16}{\ignorespaces Estado do Cluster\relax }}{43}{figure.caption.22}
+\contentsline {figure}{\numberline {17}{\ignorespaces Scaneando a rede\relax }}{47}{figure.caption.23}
+\contentsline {figure}{\numberline {18}{\ignorespaces Scaneando a rede mais completo\relax }}{47}{figure.caption.24}
+\contentsline {figure}{\numberline {19}{\ignorespaces Gr\IeC {\'a}fico do DoS\relax }}{48}{figure.caption.26}
+\contentsline {figure}{\numberline {20}{\ignorespaces Comandos utilizados para o ataque de for\IeC {\c c}a bruta\relax }}{50}{figure.caption.27}
+\contentsline {figure}{\numberline {21}{\ignorespaces Resultados do ataque de for\IeC {\c c}a bruta\relax }}{51}{figure.caption.28}
+\contentsline {figure}{\numberline {22}{\ignorespaces Acessando o cluster pelo terminal do atacante\relax }}{51}{figure.caption.29}
+\contentsline {figure}{\numberline {23}{\ignorespaces Vis\IeC {\~a}o geral do novo ambiente\relax }}{53}{figure.caption.30}
+\contentsline {figure}{\numberline {24}{\ignorespaces Scaneado a rede com nmap\relax }}{54}{figure.caption.31}
+\contentsline {figure}{\numberline {25}{\ignorespaces Interface do Ettercap\relax }}{54}{figure.caption.32}
+\contentsline {figure}{\numberline {26}{\ignorespaces Comando arp -n antes do ataque\relax }}{55}{figure.caption.33}
+\contentsline {figure}{\numberline {27}{\ignorespaces Comando arp -n durante o ataque\relax }}{55}{figure.caption.34}
+\contentsline {figure}{\numberline {28}{\ignorespaces Stop Slave1\relax }}{56}{figure.caption.35}
+\contentsline {figure}{\numberline {29}{\ignorespaces Atividades Slave1 depois do Stop\relax }}{56}{figure.caption.36}
+\contentsline {figure}{\numberline {30}{\ignorespaces Painel Datanode Stop\relax }}{56}{figure.caption.37}

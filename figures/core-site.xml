@@ -1,0 +1,12 @@
+
+<!-- configuracao do core-site.xml -->
+<configuration>
+	<property>
+		<name>hadoop.tmp.dir</name>
+		<value>/home/hadoopuser/tmp</value>
+	</property>	
+	<property>
+		<name>fs.defaultFS</name>
+		<value>hdfs://master:54310</value>
+	</property>
+</configuration>
